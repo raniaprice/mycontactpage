@@ -71,7 +71,15 @@ html, body {
 }
 
 .center {
-    width: 500px;
+
+	width: 500px;
+	height: 500px;
+	padding: 10%;
+	margin: 100px 900px 600px 325px;
+	background: rgba(235, 240, 240, 0.75);
+	border-radius: 100%; 
+
+    /*width: 500px;
 	padding: 2%;
     margin: 100px auto;
  	background: rgba(235, 240, 240, 0.75); /* this uses opacity of 75% for the background color */
